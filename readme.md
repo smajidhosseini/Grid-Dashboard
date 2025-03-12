@@ -17,8 +17,8 @@ This repository contains a Streamlit application that lets you dynamically visua
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/smajidhosseini/Grid-Dashboard
+   cd Grid-Dashboard
 
 2. **Set Up a Virtual Environment (optional but recommended):**
     ```bash
